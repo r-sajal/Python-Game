@@ -21,13 +21,13 @@ Reference if you want to know more - <br>
 https://www.youtube.com/watch?v=Ntu8nNBL28o (Hindi)<br>
 https://www.youtube.com/watch?v=l-hh51ncgDI (English) <br>
 
-# Questions --> <br>
-# 1. Any Better Algo ? <br>
+<h3> Questions --> </h3><br>
+<h5> 1. Any Better Algo ? </h5> <br>
 --> Certainly Yes and also No . If you are going to create a matrix too big then it might require better algorithms but if its under 15-20 cells then this algo will work <br>
 BETTER ALGO - Alpha - Beta Pruning <br>
-# 2. Complexity ? <br>
+<h5> 2. Complexity ? </h5><br>
 --> (branches)^(depth)
-# Any More Try Contacting me - Ready to help you out anytime. <br>
+<h3> Any More Try Contacting me - Ready to help you out anytime. </h3><br>
 # Happy Coding 😁✌
 
 
